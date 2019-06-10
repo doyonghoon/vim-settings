@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/yonghoondo/Development/redux-app2/src'
+let g:netrw_dirhist_2='/Users/yonghoondo/Development/redux-app2'
+let g:netrw_dirhist_3='/Users/yonghoondo/Development/reacteum/src'
+let g:netrw_dirhist_4='/Users/yonghoondo/Development/arbitrage-js'
